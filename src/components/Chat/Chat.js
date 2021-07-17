@@ -10,8 +10,10 @@ import Input from '../Input/Input';
 import './Chat.css';
 
 // const SERVER_URL = process.env.SERVER_URL || 'http://localhost:5000/';
-const SERVER_URL = process.env.SERVER_URL || 'https://abdallah-chat-room-backend.herokuapp.com/';
+const SERVER_URL = 'https://abdallah-ibrahim-chat-room.herokuapp.com';
 let socket;
+
+
 
 const Chat = ({ location }) => {
   const [name, setName] = useState('');
