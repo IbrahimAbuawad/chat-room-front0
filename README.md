@@ -19,7 +19,7 @@
 
 * Netlify applications
 
-[Netlify deploynment](https://ibrahim-abdullah-chatting.netlify.app)
+[Netlify deploynment](https://friendly-feynman-cbc074.netlify.app)
 
 
 
